@@ -1,6 +1,6 @@
 # Francisco Evânio Matias de Sousa
 
-Estudante de Analise e desenvolvimento de sistemas, Gran Faculdade.
+Estudante de Ciência da Computação, Gran Faculdade.
 
 ### Conecte-se comigo
 
