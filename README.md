@@ -1,6 +1,6 @@
 # Francisco Evânio Matias de Sousa
 
-Estudante de Ciência da Computação, Gran Faculdade.
+Estudante de Ciências da Computação, Gran Faculdade.
 
 ### Conecte-se comigo
 
