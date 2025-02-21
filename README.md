@@ -15,6 +15,7 @@ Estudante de Ciências da Computação, Gran Faculdade.
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)](https://reactjs.org/)
 [![ReactNative](https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=
 )](https://reactnative.dev/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
 
 
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
