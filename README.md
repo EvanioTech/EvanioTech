@@ -9,7 +9,7 @@ Estudante de Ciências da Computação, Gran Faculdade.
 
 ### Habilidades
 
-<img src="https://skillicons.dev/icons?i=angular,react,nestjs,express,nodejs,postgres,prisma,vitest,postman,typescript,javascript,html,css,bootstrap,git,github" />
+<img src="https://skillicons.dev/icons?i=nextjs,angular,react,nestjs,express,nodejs,postgres,prisma,vitest,postman,typescript,javascript,html,css,bootstrap,tailwind,firebase,git,github" />
 
 
 
