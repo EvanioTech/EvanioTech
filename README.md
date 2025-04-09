@@ -16,7 +16,7 @@ Estudante de Ciências da Computação, Gran Faculdade.
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvanioTech&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvanioTech&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&border_color=30A3DC&title_color=FF6B81&text_color=FFFFFF&icon_color=30A3DC)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EvanioTech&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <!-- Streak -->
