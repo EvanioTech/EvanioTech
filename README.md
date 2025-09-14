@@ -14,7 +14,7 @@ Estudante de Ciências da Computação, Gran Faculdade.
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvanioTech&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&border_color=30A3DC&title_color=FF6B81&text_color=FFFFFF&icon_color=30A3DC)
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismaelvieira12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvanioTech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
 <!-- Streak -->
