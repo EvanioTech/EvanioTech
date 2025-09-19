@@ -14,5 +14,5 @@ Estudante de Ciências da Computação, Gran Faculdade.
 
 
 <!-- Streak -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evaniotech&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=EvanioTech)](https://git.io/streak-stats)
   
