@@ -45,7 +45,7 @@ Node.js | Express | NestJS | Prisma
 PostgreSQL | SQLite  
 
 ### 🛠️ Ferramentas  
-Git | GitHub | VSCode | Figma | Python  
+Git | GitHub | VSCode | Figma 
 
 
 
