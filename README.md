@@ -8,6 +8,10 @@ Apaixonado por resolver problemas através da tecnologia e criar soluções que 
 
 ### 🚀 Projetos em destaque  
 - **Diário da Mamãe:** App em React Native com banco local e anúncios do Google AdMob.  
+  <a href="https://play.google.com/store/apps/details?id=com.matiasdevts.diariodamamae" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="35" alt="Google Play" />
+  </a>
+
 - **Octadroid:** Site pessoal feito em Angular — [octadroid.netlify.app](https://octadroid.netlify.app)  
 
 ---
