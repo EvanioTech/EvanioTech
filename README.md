@@ -5,9 +5,6 @@ Estudante de Ciências da Computação, Gran Faculdade.
 ### Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/evanioshark)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/evanio-matias-987ba3249/)
-
-
 
 
 
@@ -70,7 +67,7 @@ Estudante de Ciências da Computação, Gran Faculdade.
   <a href="mailto:evanioshark@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/ricardoapraphael/">
+  <a href="https://www.linkedin.com/in/evanio-matias-987ba3249/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> 
   </a>
   <a href="https://wa.me/5585991785953?text=Ol%C3%A1%2C%Matias%2C%20quero%20saber%20mais%20sobre%20os%20servi%C3%A7os.">
@@ -82,10 +79,4 @@ Estudante de Ciências da Computação, Gran Faculdade.
 
 <br clear="both">
 
-<div  align="center">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvanioTech/EvanioTech/output/github-contribution-grid-snake-dark.svg">
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvanioTech/EvanioTech/output/github-contribution-grid-snake.svg">
-   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EvanioTech/EvanioTech/output/github-contribution-grid-snake.svg">
- </picture>
-</div>
+
