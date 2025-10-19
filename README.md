@@ -16,7 +16,7 @@ Apaixonado por resolver problemas através da tecnologia e criar soluções que 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=500&lines=Olá%2C+sou+Matias!;Mobile+Developer+💙+React+Native!;Bem-vindo(a)+ao+meu+perfil+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=500&lines=Olá%2C+sou+Matias!;Mobile+Developer+React+Native!;Bem-vindo(a)+ao+meu+perfil+👋" alt="Typing SVG" />
 </a>
 
 </div>
