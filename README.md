@@ -1,39 +1,38 @@
-# Francisco Evânio Matias de Sousa
+# Evânio Matias 👨‍💻  
+🎓 Estudante de Ciências da Computação — Gran Faculdade  
+💡 Desenvolvedor Mobile focado em React Native e tecnologias modernas  
 
-Estudante de Ciências da Computação, Gran Faculdade.
+Apaixonado por resolver problemas através da tecnologia e criar soluções que façam a diferença.
 
-### Conecte-se comigo
+---
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/evanioshark)
+### 🚀 Projetos em destaque  
+- **Diário da Mamãe:** App em React Native com banco local e anúncios do Google AdMob.  
+- **Octadroid:** Site pessoal feito em Angular — [octadroid.netlify.app](https://octadroid.netlify.app)  
 
+---
 
-
-
-
-<h2 align="center">Desenvolvedor Mobile! Seja Bem-Vindo(a)👋​</h2>
-
-###
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=470&lines=Oi%2C+Meu+nome+%C3%A9+Matias!;Sou+Desenvolvedor+Mobile!;Bem-Vindo(a)+ao+meu+perfil!+%F0%9F%91%8B%E2%80%8B" alt="Typing SVG" /></a>
-</div>
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #fde047, #facc15, #fbbf24);" />
-
-###
+<h2 align="center">Desenvolvedor Mobile! Seja Bem-Vindo(a) 👋</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvanioTech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvanioTech&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="140" alt="languages graph"  />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=500&lines=Olá%2C+sou+Evânio+Matias!;Desenvolvedor+Mobile+em+React+Native!;Bem-vindo(a)+ao+meu+perfil+👋" alt="Typing SVG" />
+  </a>
 </div>
 
-###
+---
 
-<img align="right" height="100" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"  />
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EvanioTech&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanioTech&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-###
+---
+
+<img align="right" height="110" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"  />
 
 ### 🖥️ Frontend  
-HTML | CSS | JS | TS | React | Angular | Next.js  
+HTML | CSS | JavaScript | TypeScript | React | Angular | Next.js  
 
 ### 📱 Mobile  
 React Native | Expo  
@@ -45,27 +44,31 @@ Node.js | Express | NestJS | Prisma
 PostgreSQL | SQLite  
 
 ### 🛠️ Ferramentas  
-Git | GitHub | VSCode | Figma 
+Git | GitHub | VSCode | Figma | Python  
 
+---
 
+### 📡 Contato  
 
-###
-
-<div align="left">
-  
+<div align="center">
   <a href="mailto:evanioshark@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/evanio-matias-987ba3249/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> 
+  <a href="https://www.linkedin.com/in/evanio-matias-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/5585991785953?text=Ol%C3%A1%2C%Matias%2C%20quero%20saber%20mais%20sobre%20os%20servi%C3%A7os.">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /> 
+  <a href="https://wa.me/5585991785953?text=Olá%20Matias%2C%20quero%20saber%20mais%20sobre%20seus%20projetos!">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.dio.me/users/evanioshark">
+    <img src="https://img.shields.io/badge/DIO-30A3DC?style=for-the-badge&logoColor=white" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
-
-
+<p align="center">
+  🌟 Obrigado por visitar meu perfil!  
+  <br>
+  Se curtiu meus projetos, considere deixar uma ⭐ nos repositórios 😉
+</p>
