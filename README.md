@@ -43,7 +43,7 @@ Estudante de Ciências da Computação, Gran Faculdade.
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="32" alt="mongodb logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql/47A248" height="32" alt="mongodb logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
   <img width="8" />
