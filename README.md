@@ -39,15 +39,15 @@ Estudante de Ciências da Computação, Gran Faculdade.
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="react logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/postgresql/47A248" height="32" alt="mongodb logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql" height="32" alt="postgresql logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
   <img width="8" />
