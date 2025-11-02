@@ -43,13 +43,13 @@ HTML | CSS | JavaScript | TypeScript | React | Angular | Next.js
 React Native | Expo  
 
 ### ⚙️ Backend  
-Node.js | Express | NestJS | Prisma  
+Node.js | Express | NestJS | Prisma | Docker 
 
 ### 🗄️ Banco de Dados  
 PostgreSQL | SQLite  
 
 ### 🛠️ Ferramentas  
-Git | GitHub | VSCode | Figma | Python  
+Git | GitHub | VSCode 
 
 ---
 
