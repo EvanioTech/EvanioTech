@@ -44,7 +44,7 @@ HTML | CSS | JavaScript | TypeScript | React | Angular | Next.js
 React Native | Expo  
 
 ### ⚙️ Backend  
-Node.js | Express | NestJS | Prisma | Docker 
+Node.js | Express | NestJS | Prisma | Docker | Firebase 
 
 ### 🗄️ Banco de Dados  
 PostgreSQL | SQLite  
