@@ -28,18 +28,6 @@ Apaixonado por resolver problemas através da tecnologia e criar soluções que 
 
 ---
 
-<div align="center">
-  <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvanioTech&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvanioTech&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EvanioTech&layout=compact&langs_count=6&theme=tokyonight" height="150" alt="stats graph" />
-</div>
-</p>
-
-</div>
-
----
-
 <img align="right" height="110" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"  />
 
 ### 🖥️ Frontend  
