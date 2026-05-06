@@ -40,7 +40,7 @@ React Native | Expo
 Node.js | Express | NestJS | Prisma | Docker | Firebase 
 
 ### 🗄️ Banco de Dados  
-MySQL  
+MySQL | PostgreSQL | Sqlite
 
 ### 🛠️ Ferramentas  
 Git | GitHub | VSCode 
