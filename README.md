@@ -16,10 +16,10 @@ Apaixonado por resolver problemas através da tecnologia e criar soluções que 
 
   ✨ Funcionalidades:
   - Questões e simulados
-  - Simulados gerados com IA
   - Tutor policial com IA
   - Método Pomodoro
-  - Integração com ChatGPT
+  - Integração com Gemini
+  - Gráficos de acertos e de dias estudados
   - Exportação de simulados em PDF
 
   ⚙️ Tecnologias:
