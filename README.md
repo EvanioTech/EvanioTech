@@ -10,14 +10,6 @@ Apaixonado por resolver problemas através da tecnologia e criar soluções que 
 
 ### 🚀 Projetos em destaque  
 
-- **📱 Diário da Mamãe:**  
-  App em React Native utilizando Expo, SQLite e anúncios do Google AdMob.  
-
-  <a href="COLOQUE_LINK_PLAYSTORE" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="35" alt="Google Play" />
-  </a>
-
----
 
 - **👮 Mike Concursos:**  
   Aplicativo para concursos públicos com foco na área policial.  
@@ -32,6 +24,14 @@ Apaixonado por resolver problemas através da tecnologia e criar soluções que 
 
   ⚙️ Tecnologias:
   `React Native` `Expo` `TypeScript` `Firebase`
+
+  <a href="COLOQUE_LINK_PLAYSTORE" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="35" alt="Google Play" />
+  </a>
+
+---
+- **📱 Diário da Mamãe:**  
+  App em React Native utilizando Expo, SQLite e anúncios do Google AdMob.  
 
   <a href="COLOQUE_LINK_PLAYSTORE" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="35" alt="Google Play" />
