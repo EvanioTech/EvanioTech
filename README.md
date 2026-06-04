@@ -55,7 +55,7 @@ Apaixonado por resolver problemas através da tecnologia e criar soluções que 
   Site feito em Next.js — [Dev Matias](https://dev-matias-xi.vercel.app)
 
 - **🚀 Octadroid Tech:**  
-  Site desenvolvido em Next.js — [Octadroid Tech](COLOQUE_LINK_SITE)
+  Site desenvolvido em Next.js — [Octadroid Tech](https://octadroid-tech-iota.vercel.app/)
 
 ---
 
