@@ -1,4 +1,4 @@
-```md
+
 # Matias 👨‍💻  
 
 🎓 Estudante de Ciências da Computação — Gran Faculdade  
@@ -118,4 +118,4 @@ Git | GitHub | VSCode
   <br>
   Se curtiu meus projetos, considere deixar uma ⭐ nos repositórios 😉
 </p>
-```
+
